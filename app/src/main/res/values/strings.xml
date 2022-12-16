@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="title_activity_two">twoActivity</string>
+    <string name="tab_text_1">Stopwatch</string>
+    <string name="tab_text_2">Countdown</string>
+</resources>
